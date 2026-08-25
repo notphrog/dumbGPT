@@ -1,0 +1,7 @@
+wikipedia_simple.txt
+the_grand_western_philosophy.txt
+strategy_and_war.txt
+greco_roman.txt
+aristotle_and_descartes.txt
+kjv_bible.txt
+english_quran.txt

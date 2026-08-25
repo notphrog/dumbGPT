@@ -1,0 +1,5 @@
+training_data/aristotle.txt
+training_data/the_republic_plato.txt
+training_data/meditations.txt
+training_data/descartes.txt
+training_data/beyond_good_and_evil.txt

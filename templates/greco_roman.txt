@@ -1,0 +1,3 @@
+training_data/aristotle.txt
+training_data/the_republic_plato.txt
+training_data/meditations.txt

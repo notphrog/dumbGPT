@@ -1,0 +1,2 @@
+training_data/aristotle.txt
+training_data/descartes.txt
