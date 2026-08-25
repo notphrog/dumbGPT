@@ -7,7 +7,7 @@ thats cool.. but how do i use it?
 
 let me show you and thanks for asking!
 
-## how to use
+# how to use
 ## how to use out of the box
 
 
